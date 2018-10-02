@@ -1,0 +1,16 @@
+{
+    "name": "nuand/mvc",
+    "authors": [
+        {
+            "name": "Isandre47",
+            "email": "nuanda@live.fr"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    }
+}
